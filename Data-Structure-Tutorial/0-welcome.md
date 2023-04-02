@@ -2,7 +2,7 @@
 
 Welcome to the Data Structure Tutorial.  Every intermediate programmer preparing for a future in Computer Science and Software Development should Understand these concepts/data structures:
 
-- [Conditionals](1-stacks.md)
+- [Stacks](1-stacks.md)
 - [Sets](2-sets.md)
 - [Trees](3-trees.md)
 
