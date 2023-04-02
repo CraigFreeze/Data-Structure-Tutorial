@@ -49,7 +49,7 @@ Stacks should always follow the acronym, LIFO (Last in First Out). The last item
 | my_stack.append(value) | Add Value to top of the stack |
 |  value = my_stack.pop()  |     Remove last item added from stack     |
 |  *Other List Functions*   |    *Functions that relate to stacks*     |
-
+**Note: They time complexity for stacks is that of lists, O(n) on average**
 Using the syntax above consider why the output of the following code is what it is:
 
 ```Python
@@ -98,8 +98,6 @@ _The Path that you should take is as follows:_
 You can test your program by verifying that your program prints off the location just prior to "The Library". In otherwords it will need to print to the screen the string, "The Office":
 
 You can check your code with the solution here: [Solution](retrace_steps.py)
-
-
 
 [Back to Welcome Page](0-welcome.md)
 
